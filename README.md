@@ -15,7 +15,7 @@
   <img align="center" alt="Arthur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
-   <a href="https://www.linkedin.com/in/arthur-villa-84a927165" target="_blank"><img src="#" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/arthur-villa-84a927165" target="_blank"><img src="101821659.jpg" target="_blank"></a> 
   ##
  
 <div> 
