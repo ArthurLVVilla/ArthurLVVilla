@@ -20,7 +20,7 @@
 <div> 
 
   <a href="https://www.linkedin.com/in/arthur-villa-84a927165" target="_blank"><img src="101821659.jpg" target="_blank"></a> 
- 
+  
   ![Snake animation](https://github.com/arthurlvvilla/arthurlvvilla/blob/output/github-contribution-grid-snake.svg)
  
 </div>
