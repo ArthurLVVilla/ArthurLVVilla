@@ -1,4 +1,4 @@
-## Oi eu sou Arthur Villa, Desenvolvedor Frent-End!
+## Oi eu sou Arthur Villa, Desenvolvedor Front-End!
 <div align="center">
   <a href="https://github.com/arthurlvvilla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlvvilla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,9 +15,7 @@
   <img align="center" alt="Arthur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
-   <a href="https://www.linkedin.com/in/arthur-villa-84a927165" target="_blank"><img src="101821659.jpg" target="_blank"></a> 
- 
- 
+   <a href="https://www.linkedin.com/in/arthur-villa-84a927165" width="30px height="30px" "target="_blank"><img src="101821659.jpg" target="_blank"></a>  
 <div> 
 
 
