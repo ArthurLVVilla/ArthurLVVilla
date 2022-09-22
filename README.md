@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlvvilla&layout=compact&langs_count=7&theme=dracula"/>
 
  
-<div style="display: flex;align-itens:center;justify-content:center">
+<div style="display: flex;align-itens:center;justify-content:center;position: relative;top: -105px;margin: 0 211px;align-items: start;">
   <br>
   <img alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Arthur-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
