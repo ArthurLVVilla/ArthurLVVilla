@@ -3,7 +3,7 @@
   <a href="https://github.com/arthurlvvilla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlvvilla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlvvilla&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
  
 <div style="display: inline_block">
   <br>
@@ -16,7 +16,7 @@
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Arthur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <a href="https://www.linkedin.com/in/arthur-villa-84a927165"  "target="_blank"><img align="center" width="30px height="30px" src="101821659.jpg" target="_blank"></a>  
-
+</div>
 
 
   
