@@ -3,7 +3,7 @@
   <a href="https://github.com/arthurlvvilla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurlvvilla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlvvilla&layout=compact&langs_count=7&theme=dracula"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlvvilla)](https://github.com/anuraghazra/github-readme-stats)
  
 <div style="display: flex;align-itens:center;justify-content:center;position: relative;top: -105px;margin: 0 211px;align-items: start;">
   <br>
